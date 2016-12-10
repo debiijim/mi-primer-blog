@@ -25,7 +25,7 @@ SECRET_KEY = 'zhpa$a%uy%pkg#@l$rda%=c(dej1ky%2tc4@@&)6_lyd244l-8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['debi.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
